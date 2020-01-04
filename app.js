@@ -1,5 +1,5 @@
 const apiKey = 'e56925a8a6a349568dfeb12a99535612';
-const defaultSource = 'google-news-in';
+const defaultSource = 'bbc-news';
 const sourceSelector = document.querySelector('#sources');
 const newsArticles = document.querySelector('main');
 
